@@ -1,0 +1,19 @@
+body {
+ width: 400px;
+ margin: auto;
+ margin-top: 200px;
+}
+.one{
+    text-align:left;
+    
+}
+h1{
+    color: rgb(245, 32, 32);
+}
+p{
+    font-style: Roman ; color: rgb(92, 93, 91);
+}
+a {
+    text-decoration: none;
+    color: black;
+}

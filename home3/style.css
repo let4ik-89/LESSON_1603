@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(image/background\ big.png);
+    background-size: cover;
+    margin: auto;
+    text-align: center;
+    width: 60%;
+
+}
+.fon{
+    text-align: left;
+
+}
+.one{
+    border: 3px solid black;
+    border-radius: 10px 0 10px 0;
+    margin: 10px;
+    padding: 20px;
+}
+h1{
+    background-color: rgba(79, 79, 81, 0.3);
+    padding: 10px 10px;
+    margin: 10px 10px;
+    text-align: center;
+}
+h2{
+    color: rgb(218, 85, 8);
+    text-align: center;
+}
+.toimg{
+    width: 200px;
+    text-align: right;
+}
+.text1{
+    margin-right: 30px;
+    font-family: Calibri;
+    font-size: 15px;
+}
+.cont{
+    text-align: right;
+}
+a {
+    text-decoration: none;
+    color: red;
+    text-align: right;
+  }
+  .one1{
+    border: 3px dashed black;
+    border-radius: 10px 0 10px 0;
+    margin: 10px;
+    padding: 20px;
+}

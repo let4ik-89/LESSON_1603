@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;  
+}
+.one {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border:2px solid rgb(174, 171, 171);
+    border-radius: 5% 5% 5% 5%;
+    width: 200px;
+    text-align: center;
+}
+.to {
+font-family: 'Times New Roman', Times, serif;
+font-size: small;
+font-weight: 200;
+text-align: center;
+}
+p{
+    font-size: 60%;
+    padding: 10px;
+}
+.oll {
+    margin: auto;
+    text-align: center;
+}
+main{
+margin-top: 200px;
+
+}
